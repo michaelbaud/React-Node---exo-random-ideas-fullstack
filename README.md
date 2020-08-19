@@ -1,9 +1,8 @@
-## Visitez le site : https://mika-exercice-random-ideas.netlify.app/ 
+### Visitez le site : https://mika-exercice-random-ideas.netlify.app/ 
 Le premier appel au serveur est un peu long car Heroku met le serveur en stand-by au bout d'un certain moment sur la version gratuite.
 La partie client est hébergée sur Netlify.
 
 # Consignes de l'exercice : 
-# ------------------------
 
 ## Le projet est en deux parties et consiste à monter une mini boîte à idées.
 
