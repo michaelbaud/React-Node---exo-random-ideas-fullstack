@@ -1,3 +1,6 @@
 [submodule "server"]
 	path = server
 	url = https://github.com/michaelbaud/Node---exo-random-ideas-server.git
+[submodule "client"]
+	path = client
+	url = https://github.com/michaelbaud/-React---exo-random-ideas-client.git
